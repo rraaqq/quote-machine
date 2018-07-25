@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color: #fff;
+}
+
+button,
+a {
+    width: 300px;
+    margin: 70px auto;
+}
+
+h1,
+h2,
+h3 {
+    margin: 70px;
+}
+
+.jumbotron {
+    height: 100vh;
+    margin: 0;
+    background-color: #59ADEB;
+}
+
+.btn {
+    display: block;
+}
